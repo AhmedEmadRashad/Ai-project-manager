@@ -1,0 +1,21 @@
+{
+  "name": "ai-project-manager",
+  "version": "1.0.0",
+  "description": " a web-based project management tool that leverages AI to optimize task allocation, predict project timelines, and enhance team collaboration.",
+  "license": "ISC",
+  "author": "Ahmed Emad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.2.1",
+    "nodemon": "^3.1.11",
+    "path": "^0.12.7"
+  }
+}
